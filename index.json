@@ -2,6 +2,12 @@
   "schemaVersion": 1,
   "themes": [
     {
+      "id": "arrakis",
+      "displayName": "Arrakis",
+      "description": "Desert dusk: deep indigo night, ember dunes and spice-amber accents.",
+      "file": "themes/arrakis.theme.json"
+    },
+    {
       "id": "bluesneyplus",
       "displayName": "BluesneyPlus",
       "file": "themes/bluesneyplus.theme.json"
@@ -33,6 +39,12 @@
       "displayName": "Midnight",
       "description": "Deep navy dark theme with cyan accents.",
       "file": "themes/midnight.theme.json"
+    },
+    {
+      "id": "pinkmoon",
+      "displayName": "Once in a pink moon",
+      "description": "Default moonfin theme but for OLED screens with true black background and electric pink accents",
+      "file": "themes/pinkmoon.theme.json"
     },
     {
       "id": "puppy_brown",
